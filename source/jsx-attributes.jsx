@@ -1,0 +1,1 @@
+const example = <h1 id="example">JSX Attributes</h1>;
